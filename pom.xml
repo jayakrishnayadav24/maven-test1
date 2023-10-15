@@ -49,7 +49,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.example.javamavenjunithelloworld.HelloApp</mainClass>
+              <mainClass>com.example.javamavenjunithelloworld.jaya</mainClass>
             </manifest>
           </archive>
         </configuration>
